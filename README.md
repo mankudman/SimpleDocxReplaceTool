@@ -1,6 +1,6 @@
 # Docx Search & Replace Java Project (SimpleDocxReplaceTool)
 
-This project uses the gradle project template **docx-search-and-replace-assessment-java** provided by **BRYTER.io**
+This project builds on the java gradle project template provided by **BRYTER.io**
 
 ## Description of this Library
 
